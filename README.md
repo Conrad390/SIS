@@ -8,7 +8,7 @@
   <link rel="styles" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="body-home">
+<body class=".body-home">
   <div class="black-fill">
   </div>
 
