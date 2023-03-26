@@ -8,7 +8,14 @@
   <link rel="styles" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="body-home">
+<body>
+  <style>
+	background-image: url("2heads.png");
+	background-image: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+</style>
   <div class="black-fill">
   </div>
 
