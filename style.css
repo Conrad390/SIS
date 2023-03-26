@@ -1,3 +1,5 @@
-.body-home{
+.body-home {
   background: url(2heads.png);
+  background-size: cover;
+  background-attachment: fixed;
 }
